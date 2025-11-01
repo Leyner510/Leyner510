@@ -54,7 +54,7 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="askarmullahanov7@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Leyner510/Leyner510/blob/main/assets/gmail.png" />
 </a>
 <a href="https://t.me/Leyner510">
   <img align="left" alt="Telegram" width="150" hight="100" src="https://github.com/Leyner510/Leyner510/blob/main/assets/telegram.png" />
